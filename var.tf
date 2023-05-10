@@ -18,3 +18,5 @@ variable "bucket_location" {
   description = "The location of the GCP storage buckets."
   default     = "US"
 }
+
+#comment
