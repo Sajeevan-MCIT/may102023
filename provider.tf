@@ -15,7 +15,7 @@ provider "google" {
 
 terraform {
   cloud {
-    organization = "Sajeevan-MCIT"
+    organization = "MCIT-ARUN"
 
     workspaces {
       name = "classworkMay10"
