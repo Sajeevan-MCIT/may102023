@@ -1,6 +1,6 @@
 variable "project_id" {
   description = "The ID of the GCP project."
-  default     = "avian-amulet-378416"
+  default     = "mcit-arun"
 }
 
 variable "bucket_name" {
@@ -19,4 +19,3 @@ variable "bucket_location" {
   default     = "US"
 }
 
-#comment
