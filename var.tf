@@ -7,10 +7,10 @@ variable "bucket_name" {
   description = "A list of unique names for the GCP storage buckets."
   type        = list(string)
   default     = [
-    "my-test-bucket-latest8999",
-    "mytestbucket8888",
-    "montrealcollege-927218-for-demo",
-    "bucket-full-of-happiness"
+    "my-may102023saj199",
+    "mymay102023saj18",
+    "may102023saj2",
+    "may102023saj1"
 
   ]
 }
