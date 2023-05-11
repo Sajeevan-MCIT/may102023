@@ -8,18 +8,19 @@ terraform {
 }
 
 provider "google" {
-  project     = "avian-amulet-378416"
+  project     = "mcit-arun"
   region      = "us-central1"
 }
 
 
 terraform {
   cloud {
-    organization = "sami123123123"
+    organization = "Sajeevan-MCIT"
 
     workspaces {
-      name = "mobility-base-storage"
+      name = "classworkMay10"
     }
   }
 }
 #comment
+#
